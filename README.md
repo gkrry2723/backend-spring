@@ -2,14 +2,9 @@
 
 
 Backend Skills: Docker, EC2, RDS, S3, Spring
-
 진행 기간: 2022년 1월 2일 → 2022년 2월 15일
-
 팀구성: 백엔드 3명, 프론트엔드 1명
-
 한 줄 소개: 서로의 청소를 평가해주며 청소 동기부여를 주는 앱
-
-
 
 <aside>
 💡 서로의 청소를 평가해주며 청소 동기부여를 주는 안드로이드 어플리케이션
@@ -28,6 +23,16 @@ UMC 동아리에서 활동하며 진행한 프로젝트입니다. 모두 클리�
     > 다음주, 같은 셰어하우스에 사는 휴학생 B가 당번이 되었고, A의 루틴을 반복한다. 이후 A와 B는 서로의 평균 점수를 비교하여 점수가 작은 A가 밥을 사기로 한다.
     > 
 - **전체적인 기능**
+
+<img width="519" alt="스크린샷_2022-03-21_오후_10 38 29" src="https://user-images.githubusercontent.com/51503799/222619759-be92d101-a287-4429-9fb7-efa5dbc1d2cf.png">
+
+<img width="513" alt="스크린샷_2022-03-21_오후_10 39 11" src="https://user-images.githubusercontent.com/51503799/222619774-0d8f8a8e-76d5-4b1f-aba9-6a1f19d0ed99.png">
+
+<img width="517" alt="스크린샷_2022-03-21_오후_10 38 55" src="https://user-images.githubusercontent.com/51503799/222619784-8666f95b-31c1-4280-8832-771ce422ecfb.png">
+
+<img width="520" alt="스크린샷_2022-03-21_오후_10 39 26" src="https://user-images.githubusercontent.com/51503799/222619797-b81691fe-0c98-43de-a510-45add71ed099.png">
+
+
     - 홈
         - 친구목록 내에서 가장 점수가 높은 유저 보이기
         - 월간 현황 보이기
@@ -43,10 +48,3 @@ UMC 동아리에서 활동하며 진행한 프로젝트입니다. 모두 클리�
         - 로그인 기능은 카카오 로그인으로 대체 (이외 로그인 기능 X)
     - 서비스 진행 방식
         - 매 월을 기준으로 평점이 매겨지게 됩니다. 이 평점을 통해 순위가 결정됩니다.
-<img width="519" alt="스크린샷_2022-03-21_오후_10 38 29" src="https://user-images.githubusercontent.com/51503799/222619467-1e4e01a5-e529-45c2-8698-5cb4ef4069b2.png">
-
-<img width="513" alt="스크린샷_2022-03-21_오후_10 39 11" src="https://user-images.githubusercontent.com/51503799/222619506-cbd31583-b374-4b71-9ed2-661f3e677ad9.png">
-
-<img width="517" alt="스크린샷_2022-03-21_오후_10 38 55" src="https://user-images.githubusercontent.com/51503799/222619528-a093b542-59fd-4776-9c66-24c7e53bc8c0.png">
-
-450db.png)">
